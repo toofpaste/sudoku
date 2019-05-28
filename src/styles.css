@@ -1,0 +1,480 @@
+body {
+  background-color: grey;
+}
+
+.main-box{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 6px;
+  height: 30em;
+}
+.main-box .box1{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 1;
+}
+.main-box .box1 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box1 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box1 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box1 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box1 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box1 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box1 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box1 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box1 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+
+.main-box .box2{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 1;
+}
+.main-box .box2 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box2 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box2 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box2 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box2 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box2 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box2 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box2 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box2 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box3{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 1;
+}
+.main-box .box3 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box3 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box3 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box3 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box3 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box3 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box3 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box3 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box3 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box4{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 2;
+}
+.main-box .box4 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box4 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box4 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box4 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box4 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box4 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box4 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box4 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box4 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box5{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 2;
+}
+.main-box .box5 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box5 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box5 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box5 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box5 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box5 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box5 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box5 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box5 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box6{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 2;
+}
+.main-box .box6 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box6 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box6 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box6 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box6 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box6 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box6 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box6 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box6 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box7{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 3;
+}
+.main-box .box7 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box7 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box7 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box7 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box7 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box7 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box7 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box7 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box7 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box8{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 3;
+}
+.main-box .box8 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box8 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box8 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box8 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box8 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box8 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box8 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box8 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box8 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box9{
+  display: grid;
+  position: relative;
+  background-color: black;
+  grid-gap: 4px;
+  grid-row: 3;
+}
+.main-box .box9 .inBox1{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box9 .inBox2{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box9 .inBox3{
+  position: relative;
+  background-color: white;
+  grid-row: 1;
+}
+.main-box .box9 .inBox4{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box9 .inBox5{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box9 .inBox6{
+  position: relative;
+  background-color: white;
+  grid-row: 2;
+}
+.main-box .box9 .inBox7{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box9 .inBox8{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
+.main-box .box9 .inBox9{
+  position: relative;
+  background-color: white;
+  grid-row: 3;
+}
